@@ -1,5 +1,5 @@
 /*
-COUNTER Instructions-
+COUNTER Instructions--
 
 Watch this short video carefully, paying attention to the UI and Chrome Devtools:
 https://tk-assets.lambdaschool.com/59036a85-0980-42c8-81ad-9afc8354497f_counter-clip.gif
